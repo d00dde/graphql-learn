@@ -1,0 +1,14 @@
+{
+  "name": "graphql-learn",
+  "version": "1.0.0",
+  "description": "GraphQL & React. Полный курс (Material-UI, Apollo, mLab) от webDev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GraphQL"
+  ],
+  "author": "Andrey Lopatko <d48564@gmail.com>",
+  "license": "ISC"
+}
